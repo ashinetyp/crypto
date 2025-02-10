@@ -1,0 +1,44 @@
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+.table th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+}
+
+.trend-positive {
+    color: #28a745;
+}
+
+.trend-negative {
+    color: #dc3545;
+}
+
+.recommendation-high {
+    background-color: rgba(40, 167, 69, 0.1);
+}
+
+.recommendation-medium {
+    background-color: rgba(255, 193, 7, 0.1);
+}
+
+.alert {
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+#market-summary {
+    margin-bottom: 0;
+}
+
+.table-responsive {
+    max-height: 600px;
+    overflow-y: auto;
+}
